@@ -15,6 +15,15 @@ A lightweight, simple, and dependency-free Easily handle text objects (inner/aro
 
 ---
 
+💝 Support me by the only available way now: USDT to buy a new dev laptop. Info is below, 
+or contact me by 📩 email: janecodelife@gmail.com
+
+## Thank You So Much
+
+---
+
+
+
 ## 📦 Installation
 
 ```lua
@@ -54,6 +63,23 @@ The plugin maps text objects in both **Visual** (`x`) and **Operator-pending** (
 
 ---
 
+
+## 💝 Support the Project
+
+> *This plugin is built entirely on developer insights gathered over **years of building real-world software** to catch common pain points, combined with **months of dedicated building and rigorous testing** to ensure it operates flawlessly.*
+
+If this utility boosts your everyday speed and eliminates annoying file search clutter, please consider buying me a coffee or supporting my continuous maintenance!
+
+You can tip or donate directly to my **TRON (TRX / USDT-TRC20)** crypto wallet address:
+## ☕☕☕☕ Support Me Buy A Dev Labtop By Coffee Via USDT ☕☕☕☕
+
+- **Network:** `TRX Tron (TRC20)`
+- **Address:** `TAFFjBP39Z86weL5dDU1A2251VrgPprDUj`
+
+> *Every bit of support fuels the expansion of this ecosystem and helps me write cleaner tools for all of us. Thank you for standing behind independent developers!* 🙏
+
+---
+
 ##  If Have A Question🤝 (Contact Me)
 
 I will be there i am answer to all messages
@@ -72,4 +98,22 @@ Check out my other open-source tools to supercharge your Neovim environment:
 - **[folders-bookmark.nvim](https://github.com/janecodelife/folders-bookmark.nvim)** - Bookmark folders and accessing them by keymap in a blink
 - **[copy-history.nvim](https://github.com/janecodelife/copy-history.nvim)** - Access your copy (Yank) history and paste it again by 1 click in a blink.
 - **[rest-client.nvim](https://github.com/janecodelife/rest-client.nvim)** - run http request from anywhere in a blink
+
+
+##  If Have A Question🤝 (Contact Me)
+
+I will be there i am answer to all messages
+
+- **X (Twitter)**: [https://x.com/janecodelife](https://x.com/janecodelife)
+- **YouTube**: [https://www.youtube.com/@JaneCodeLife](https://www.youtube.com/@JaneCodeLife) 
+- **Email**: [janecodelife@gmail.com](janecodelife@gmail.com)
+
+---
+
+A huge thank you to our sponsors! 
+
+<!-- SPONSORS -->
+<!-- SPONSORS -->
+
+---
 
