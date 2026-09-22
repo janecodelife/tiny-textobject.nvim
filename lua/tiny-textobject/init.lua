@@ -1,5 +1,3 @@
--- lua/inner-around/init.lua
-
 local M = {}
 
 local function select_function(inner)

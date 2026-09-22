@@ -1,9 +1,9 @@
-# inner-around.nvim
+# tiny-textobject.nvim
 
 [![Follow on X](https://img.shields.io/badge/Follow-@janecodelife-000000?style=for-the-badge&logo=x)](https://x.com/janecodelife)
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-@JaneCodeLife-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@JaneCodeLife)
 
-A lightweight, simple, and dependency-free Neovim plugin written in Lua that provides text objects for **Inner** (`if`) and **Around** (`af`) functions without relying on Treesitter. 
+A lightweight, simple, and dependency-free Neovim plugin written in Lua that provides text objects for **Inner** (`if`) and **Around** (`af`) functions without Treesitter. 
 
 It uses native Vim movements (`[[`, `]]`, etc.) to quickly select or operate on function bodies and structures.
 
@@ -21,10 +21,10 @@ It uses native Vim movements (`[[`, `]]`, etc.) to quickly select or operate on 
 
 ```lua
 vim.pack.add({
-	"https://github.com/janecodelife/inner-around.nvim",
+	"https://github.com/janecodelife/tiny-textobject.nvim",
 })
 
-require("inner-around").setup()
+require("tiny-textobject").setup()
 ```
 
 ## Video 📺
