@@ -3,9 +3,7 @@
 [![Follow on X](https://img.shields.io/badge/Follow-@janecodelife-000000?style=for-the-badge&logo=x)](https://x.com/janecodelife)
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-@JaneCodeLife-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@JaneCodeLife)
 
-A lightweight, simple, and dependency-free Easily handle text objects (inner/around) without the need for Tree-sitter.
-
-It uses native Vim movements (`[[`, `]]`, etc.) to quickly select or operate on function bodies and structures.
+A lightweight, simple, and dependency-free Easily handle text objects (inner/around) without need for Tree-sitter.
 
 ---
 
