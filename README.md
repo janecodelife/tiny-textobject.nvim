@@ -3,7 +3,7 @@
 [![Follow on X](https://img.shields.io/badge/Follow-@janecodelife-000000?style=for-the-badge&logo=x)](https://x.com/janecodelife)
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-@JaneCodeLife-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@JaneCodeLife)
 
-A lightweight, simple, and dependency-free Neovim plugin written in Lua that provides text objects for **Inner** (`if`) and **Around** (`af`) functions without Treesitter. 
+A lightweight, simple, and dependency-free Easily handle text objects (inner/around) without the need for Tree-sitter.
 
 It uses native Vim movements (`[[`, `]]`, etc.) to quickly select or operate on function bodies and structures.
 
@@ -30,12 +30,12 @@ require("tiny-textobject").setup()
 ## Video 📺
 
 <p align="center">
-  <img src="assets/make_http_request_in_blink_without_leaving_buffer.gif" alt="make_http_request_in_blink_without_leaving_buffer-video" width="100%">
+  <img src="assets/tiny-textobject.gif" alt="tiny-textobject-video" width="100%">
 </p>
 
 or in 
 
-- **YouTube**: [https://www.youtube.com/watch?v=jBUKpSBhoxI](https://www.youtube.com/watch?v=jBUKpSBhoxI) 
+- **YouTube**: [https://youtu.be/qFnbg9WDQoU](https://www.youtube.com/watch?v=jBUKpSBhoxI) 
 
 --- 
 
@@ -74,16 +74,4 @@ Check out my other open-source tools to supercharge your Neovim environment:
 - **[folders-bookmark.nvim](https://github.com/janecodelife/folders-bookmark.nvim)** - Bookmark folders and accessing them by keymap in a blink
 - **[copy-history.nvim](https://github.com/janecodelife/copy-history.nvim)** - Access your copy (Yank) history and paste it again by 1 click in a blink.
 - **[rest-client.nvim](https://github.com/janecodelife/rest-client.nvim)** - run http request from anywhere in a blink
-
----
-
-## Upcoming 🚀 (Stay Tuned!)
-
-### The Ultimate Neovim Config for Modern Web & Laravel Devs ⚡
-
-I am currently cooking a comprehensive guide and boilerplate configuration on **How to turn Neovim into a (Powerful) IDE** explicitly optimized for:
-
-- **Backend & Frameworks**: PHP (Intelephense) & Full Laravel & Livewire Integration (With Preformance)
-- **Frontend & Tooling**: HTML, CSS, JavaScript, TypeScript, and Livewire SFCs
-- **Speed**: Blazing fast autocompletion, lightning-speed code navigation, and fuzzy finding.
 
